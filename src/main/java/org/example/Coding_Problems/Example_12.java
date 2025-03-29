@@ -2,7 +2,7 @@ package org.example.Coding_Problems;
 
 import java.util.Scanner;
 
-public class Example_11 {
+public class Example_12 {
     static final double PI = 3.142;
     public static void main(String[] args) {
         // Write code here
