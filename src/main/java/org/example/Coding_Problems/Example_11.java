@@ -3,7 +3,7 @@ package org.example.Coding_Problems;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Example_10 {
+public class Example_11 {
     public static void main(String[] args) {
         // Write code here
         Scanner scan = new Scanner(System.in);
